@@ -2,3 +2,8 @@
 	path = openeducat/openeducat_erp
 	url = git@github.com:openeducat/openeducat_erp.git
 	branch = 12.0
+
+[submodule "OCA/web"]
+	path = OCA/web
+	url = git@github.com:OCA/web.git
+	branch = 12.0
