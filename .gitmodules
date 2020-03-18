@@ -7,3 +7,8 @@
 	path = OCA/web
 	url = git@github.com:OCA/web.git
 	branch = 12.0
+
+[submodule "rinaz/Odoo"]
+	path = rinaz/Odoo
+	url = git@github.com:rinaz/Odoo.git
+	branch = master
