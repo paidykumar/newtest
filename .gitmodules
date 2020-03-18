@@ -12,3 +12,8 @@
 	path = rinaz/Odoo
 	url = git@github.com:rinaz/Odoo.git
 	branch = master
+
+[submodule "paidykumar/o3modules"]
+	path = paidykumar/o3modules
+	url = git@github.com:paidykumar/o3modules.git
+	branch = master
