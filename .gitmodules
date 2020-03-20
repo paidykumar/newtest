@@ -17,3 +17,8 @@
 	path = paidykumar/o3modules
 	url = git@github.com:paidykumar/o3modules.git
 	branch = master
+
+[submodule "odoo/apps"]
+	path = odoo/apps
+	url = git@github.com:openeducat/openeducat_erp.git
+	branch = 12.0
